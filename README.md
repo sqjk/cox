@@ -65,9 +65,10 @@ cox::window example6()
 ```
 
 This even goes so far, that we can bind a list of strings to a list of labels inside
-a vertical box ... see our [main.cc](https://github.com/sqjk/cox/blob/master/main.cc)
+a vertical box ... see our
+[main.cc](https://github.com/sqjk/cox/blob/master/examples/main.cc)
 for more details and see
-[tictactoe.cc](https://github.com/sqjk/cox/blob/master/tictactoe.cc)
+[tictactoe.cc](https://github.com/sqjk/cox/blob/master/examples/tictactoe.cc)
 for a real word example.
 
 ## License
